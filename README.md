@@ -1,6 +1,6 @@
 # Plan Interactivo — Data Analyst
 
-Ruta de aprendizaje interactiva para arrancar en análisis de datos, hecha por [Mermelada Tech](https://github.com/nujovich).
+Ruta de aprendizaje interactiva para arrancar en análisis de datos, hecha por [Nadia Ujovich](https://github.com/nujovich) para Mermelada Tech.
 
 **🔗 Ver el plan:** https://nujovich.github.io/plan-data-analyst/
 
